@@ -1,0 +1,151 @@
+/*font-family: 'Indie Flower', cursive;
+font-family: 'Chewy', cursive;
+font-family: 'Candal', sans-serif;
+
+font-family: 'Bangers', cursive;
+
+font-family: 'Oleo Script', cursive;
+font-family: 'Sigmar One', cursive;
+
+font-family: 'Permanent Marker', cursive;
+font-family: 'Viga', sans-serif;
+http://fundacionpyg.atwebpages.com/apadrinar.html
+
+</ul>
+	<h3>ADOPTA </h3>
+<h4> APADRINA</h4>
+
+						<h5>ADOPTA</h5>
+				<h6> APADRINA</h6>
+	<h7> INFORMACION</h7>
+</nav>background: silver; 
+*/
+
+
+#contenidos{
+	width:1000px; 
+	height: auto;
+	margin: auto;
+	position: relative;
+	background: lime;
+}
+/*ETIQUETA*/
+body{
+
+background-image: url(../img/fondo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1{
+font-family: 'Sigmar One', cursive;
+color: coral;
+margin-left: 15px;
+font-size: 30px;
+text-align: center;
+}
+ 
+  
+h2{
+font-family: 'Sigmar One', cursive;
+color: salmon;
+margin-left: 10px;
+font-size: 25px;
+text-align: center;
+} 
+
+header{
+
+	width: 1000px;
+	height: 120 px;
+	background: yellowgreen (255, 255, 255, 10,70);
+
+}
+
+nav{
+width: 1000px;
+height: 50px;
+background: red;
+border-radius: 10px;
+text-align: center;
+}
+
+
+ul{ 
+margin: auto;
+padding-top: 4px;
+}
+
+li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+	background: green;
+	margin: 3px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px white inset; 
+
+}
+/*CLASES*/
+
+
+
+aside{
+
+	width: 280px;
+	background: white;
+	height: 600px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	border-radius: 10px;
+}
+
+footer{
+width: 1000px;
+height: 70px;
+background: maroon;
+float: left;
+margin-top: 20px;
+border-radius: 10px;
+margin-bottom: 20px;
+}
+
+p{
+
+	font-size: 15px;
+	font-weight: bolder;
+	line-height: 24px;
+	padding: 10px;
+	text-align: justify;
+}
+
+{
+  display: inline-block;
+  position: relative;
+  z-index: 0;
+  width: 100%;
+  left: 0;
+  top: 0;
+  cursor:default;
+  overflow:visible;
+  float: left;
+  clear: left;
+}
+
+
+
+
+
+/*CLASES*/
+
+.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{width: 970px;}
+
+.menu:link{color: white; text-decoration: none;}
+.menu:visited{color: white; text-decoration: none;}
+.menu:hover{color: white; text-decoration: none; text-shadow: 0 0 13px white;}
+.menu:active{color: white; text-decoration: none;}
+
+/*SEUDO CLASES*/
+
